@@ -16,3 +16,20 @@ Things included in the Repo
 - Webpack + TypeScript workflows
 - Integrating React and TypeScript
 - TypeScript’s Module System
+
+## Playground
+[Typescript](https://www.typescriptlang.org/play)
+
+## How we use TypeScript
+anything with ```.ts, .tsx``` is a typescript file.
+
+## Type Annotation
+
+```var add: Type = true```
+```var add: TypeAnnotation = true```
+
+## Type Inference
+Refers to the typescript compiler's ability to infer types from certain values in your code.
+
+## The :any Type
+- doesn't do any type checking
