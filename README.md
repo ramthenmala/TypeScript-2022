@@ -33,3 +33,19 @@ Refers to the typescript compiler's ability to infer types from certain values i
 
 ## The :any Type
 - doesn't do any type checking
+
+## functions
+
+In typescript we can specify the type of function parameters in a function definition. 
+
+Typing parameters is like typing variables.
+
+### return type Annotation
+We can specify the type returned by a function.
+
+## void type
+Void is a return type for functions that don't return anything.
+returns null or undefined, which is technically a value.
+
+## never
+The never type represents values that never occur.
