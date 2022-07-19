@@ -49,3 +49,4 @@ returns null or undefined, which is technically a value.
 
 ## never
 The never type represents values that never occur.
+
