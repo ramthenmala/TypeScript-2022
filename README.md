@@ -49,3 +49,9 @@ returns null or undefined, which is technically a value.
 
 ## never
 The never type represents values that never occur.
+
+## Objects
+Objects can be typed by declaring what the object should look like in the annotation.
+
+## Type Alias
+Instead of writing out object types in an annotation, we can declare them separately in a type alias.
