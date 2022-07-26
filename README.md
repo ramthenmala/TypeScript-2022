@@ -55,3 +55,11 @@ Objects can be typed by declaring what the object should look like in the annota
 
 ## Type Alias
 Instead of writing out object types in an annotation, we can declare them separately in a type alias.
+
+## Union Types
+Union types allow us to give a value few different possible ways.
+
+## Literal Types
+Literal types are not just types - but the values themselves too.
+
+On it's own, thats not super helpful. But combine it with something like unions and you can have very fine-tuned type options for typescript to enforce.
