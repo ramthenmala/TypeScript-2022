@@ -63,3 +63,7 @@ Union types allow us to give a value few different possible ways.
 Literal types are not just types - but the values themselves too.
 
 On it's own, thats not super helpful. But combine it with something like unions and you can have very fine-tuned type options for typescript to enforce.
+
+## Tuples
+Dont exist in javascript
+Tuples are arrays of fixed lengths and ordered with specific types.
