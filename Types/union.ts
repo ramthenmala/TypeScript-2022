@@ -43,7 +43,7 @@ type hslColor = {
     l: number;
 }
 
-const color: (rgbColor | hslColor)[] = [];
+const colorrss: (rgbColor | hslColor)[] = [];
 
 const greet = (person: string | string[]): void => {
     if(typeof person === 'string'){
